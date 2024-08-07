@@ -6,8 +6,6 @@ Welcome to the CKA Certification Resources repository! This repository is dedica
 ## Contents
 - **Study Materials**: Comprehensive guides and notes to help you understand Kubernetes concepts.
 - **Practice Tests**: Sample tests to evaluate your knowledge and readiness.
-- [**Popular training and practice sites**](resources/training.md)
-
 
 
 ## Popular training and practice sites:
